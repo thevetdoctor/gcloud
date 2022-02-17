@@ -1,0 +1,13 @@
+runtime: nodejs14
+
+handlers:
+  - url: /
+    static_files: /index.html
+    upload: /index.html
+
+  - url: /build
+    static_dir: build
+
+  # - url: /(.*)
+  #   static_files: /index.html
+  #   upload: /(.*)

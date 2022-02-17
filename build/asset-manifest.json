@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e6343cb.chunk.css",
+    "main.js": "/static/js/main.2c29064c.chunk.js",
+    "main.js.map": "/static/js/main.2c29064c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.32dd5e6c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.32dd5e6c.js.map",
+    "static/css/2.17869e60.chunk.css": "/static/css/2.17869e60.chunk.css",
+    "static/js/2.8ebfcf31.chunk.js": "/static/js/2.8ebfcf31.chunk.js",
+    "static/js/2.8ebfcf31.chunk.js.map": "/static/js/2.8ebfcf31.chunk.js.map",
+    "static/js/3.81cc591e.chunk.js": "/static/js/3.81cc591e.chunk.js",
+    "static/js/3.81cc591e.chunk.js.map": "/static/js/3.81cc591e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.17869e60.chunk.css.map": "/static/css/2.17869e60.chunk.css.map",
+    "static/css/main.0e6343cb.chunk.css.map": "/static/css/main.0e6343cb.chunk.css.map",
+    "static/js/2.8ebfcf31.chunk.js.LICENSE.txt": "/static/js/2.8ebfcf31.chunk.js.LICENSE.txt",
+    "static/media/business.e9a545ee.jpg": "/static/media/business.e9a545ee.jpg",
+    "static/media/community.cab8c5cf.jpg": "/static/media/community.cab8c5cf.jpg",
+    "static/media/influencer.9d5ef2bd.jpg": "/static/media/influencer.9d5ef2bd.jpg",
+    "static/media/TopSection.scss": "/static/media/jackson-david-cIcBInoyb7U-unsplash 1.f187c3d2.jpg",
+    "static/media/organization.8df414f0.jpg": "/static/media/organization.8df414f0.jpg",
+    "static/media/philanthropist.fa0f4bba.jpg": "/static/media/philanthropist.fa0f4bba.jpg",
+    "static/media/release.25c832a9.svg": "/static/media/release.25c832a9.svg",
+    "static/media/WhoWeHelp.scss": "/static/media/slick.c94f7671.ttf",
+    "static/media/you.b0e53c2d.jpg": "/static/media/you.b0e53c2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32dd5e6c.js",
+    "static/css/2.17869e60.chunk.css",
+    "static/js/2.8ebfcf31.chunk.js",
+    "static/css/main.0e6343cb.chunk.css",
+    "static/js/main.2c29064c.chunk.js"
+  ]
+}
